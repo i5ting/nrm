@@ -14,7 +14,7 @@ $ npm install -g yrm
 
 ## Example
 ```
-$ yrm ls
+$ yrman ls
 
 * npm -----  https://registry.npmjs.org/
   cnpm ----  http://r.cnpmjs.org/
@@ -26,7 +26,7 @@ $ yrm ls
 ```
 
 ```
-$ yrm use cnpm  //switch registry to cnpm
+$ yrman use cnpm  //switch registry to cnpm
 
     Registry has been set to: http://r.cnpmjs.org/
 
@@ -35,7 +35,7 @@ $ yrm use cnpm  //switch registry to cnpm
 ## Usage
 
 ```
-Usage: yrm [options] [command]
+Usage: yrman [options] [command]
 
   Commands:
 
